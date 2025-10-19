@@ -8,8 +8,6 @@ This repository showcases a sample API built with .NET 9 that demonstrates the i
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
-- [Support](#support)
 
 ## Getting Started
 

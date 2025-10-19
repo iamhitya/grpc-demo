@@ -1,0 +1,12 @@
+﻿global using Carter;
+global using FluentValidation;
+global using Mapster;
+global using Marten;
+global using MediatR;
+global using Microsoft.AspNetCore.Diagnostics;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.Extensions.Caching.Distributed;
+global using ShoppingCart.Api.Data;
+global using ShoppingCart.Api.Entities;
+global using ShoppingCart.Api.Exceptions;
+global using System.Text.Json;

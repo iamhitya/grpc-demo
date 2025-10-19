@@ -1,0 +1,6 @@
+@ShoppingCart.Api_HostAddress = http://localhost:7284/api/shopping-cart/
+@username = ps
+GET {{ShoppingCart.Api_HostAddress}}/{username}/
+Accept: application/json
+
+###
